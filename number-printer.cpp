@@ -2,6 +2,6 @@
 
 int  main (){
   int  number = 100;
-    printf("%d", number );
+    printf("Number is: %d.", number );
   return  0;
 }
